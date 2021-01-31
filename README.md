@@ -4,7 +4,7 @@ I've translated some audio files from Freeswitch to Dutch. Only thing I changed 
 ## How to intergrate
 
 This method only works if you don't need the English soundtracks anymore:
-Just copy paste the directory and everything should work. Please check if your version didn't add new soundfiles before you entirely delete your old files. The prevent this from happening is just to not delete the old directory but overwrite the basic directory with the files from this directory. 
+Just copy paste the directory and everything should work. Please check if your version didn't add new soundfiles before you entirely delete your old files. To prevent this from happening is just to not delete the old directory but overwrite the basic directory with the files from this directory. 
 
 If you want to keep the English soundtracks: 
 
